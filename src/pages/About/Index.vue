@@ -23,6 +23,7 @@
     </v-container>
     </v-jumbotron>
 </template>
+
 <script>
 export default {
     name: 'About'
